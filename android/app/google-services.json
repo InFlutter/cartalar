@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "587921204196",
+    "project_id": "dars66-32812",
+    "storage_bucket": "dars66-32812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587921204196:android:002358e7f426e8d0855df1",
+        "android_client_info": {
+          "package_name": "com.example.card_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCscm7As9wwWeynrocUK7Pw_UE45Rtzraw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587921204196:android:d29a665a6885d662855df1",
+        "android_client_info": {
+          "package_name": "com.example.dars64_statemanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCscm7As9wwWeynrocUK7Pw_UE45Rtzraw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
